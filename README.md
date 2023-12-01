@@ -1,5 +1,7 @@
 # Bem vindo ao FastSnack!
 
+![0](https://github.com/IFBA-SAJ/FastSnack/assets/107933147/27ce0c21-f6eb-480e-8d4a-a925a2adf741)
+
 Sua aplicação para a gestão de restaurantes, pedidos e comandas, tudo na palma de sua mão.
 
 ## Descrição
